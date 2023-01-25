@@ -1,0 +1,27 @@
+.exp {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+    padding: 50px;
+}
+
+body {
+    background-color: rgb(30, 26, 26);
+}
+
+.srvice {
+    background-color: bisque;
+}
+
+.exp a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    background-color: aliceblue;
+    height: 8px;
+}
